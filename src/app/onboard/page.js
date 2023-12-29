@@ -1,7 +1,7 @@
 import Onboard from "@/components/onboard/Onboard";
 import React from "react";
 
-const page = () => {
+const Page = () => {
   return (
     <div>
       <Onboard />
@@ -9,4 +9,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Page;
