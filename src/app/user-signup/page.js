@@ -1,11 +1,12 @@
 import React from 'react'
+import SignUp from '@/components/user/SignUp'
 
-const page = () => {
+const Page = () => {
   return (
     <div>
-      User...
+      <SignUp/>
     </div>
   )
 }
 
-export default page
+export default Page
