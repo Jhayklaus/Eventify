@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import { useState } from "react";
-import login from "@/assets/login/illustration.svg";
+import login from "@/assets/login/login.svg";
 import Button from "@/components/baseComponents/Button";
 import Link from "next/link";
 
